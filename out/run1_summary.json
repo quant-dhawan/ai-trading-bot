@@ -1,0 +1,13 @@
+{
+  "run": 1,
+  "model": "claude-opus-5-5",
+  "days": 86,
+  "end_pct": 1.51,
+  "worst_fall_pct": 5.85,
+  "total_cost_pct": 0.085,
+  "trade_count": 109,
+  "refusal_days": 0,
+  "input_tokens": 339012,
+  "output_tokens": 15313,
+  "cost_usd": 1.66
+}

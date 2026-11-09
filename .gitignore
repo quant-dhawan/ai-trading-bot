@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+venv*/
+
+# Secrets
+.env
+.env.*
+
+# Caches and local output
+.cache/
+out/replay/
+fonts/
+
+# Price data: Yahoo Finance terms limit redistribution. Run fetch_data.py.
+data/raw/*.csv

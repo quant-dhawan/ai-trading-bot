@@ -1,0 +1,18 @@
+{
+  "source": "Yahoo Finance via yfinance 1.7.0",
+  "adjusted": "auto_adjust=True (splits and dividends)",
+  "downloaded_utc": "2026-11-01T17:53:06+00:00",
+  "tickers": [
+    "NVDA",
+    "MSFT",
+    "AAPL",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "AVGO",
+    "TSLA",
+    "JPM",
+    "BRK-B",
+    "SPY"
+  ]
+}
