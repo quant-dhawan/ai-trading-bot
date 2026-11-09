@@ -85,3 +85,7 @@ Prices come from Yahoo Finance through `yfinance`. The price CSVs are not in thi
 ## Learn the method
 
 Learn the method: https://learn.thuztra.com/yt/reference/can-ai-guess-tomorrows-market
+
+## License
+
+MIT. See [LICENSE](LICENSE).
